@@ -45,7 +45,8 @@ Software also plays an important role alongside the hardware.  The software act 
 
 # General System Flowchart
 
-TBD
+![image](https://github.com/eaidmann/IOT_Classroom_Entrance_System/assets/59868261/830a4a3b-e19e-4117-ae77-548fd62fb966)
+
 
 # Result
 
